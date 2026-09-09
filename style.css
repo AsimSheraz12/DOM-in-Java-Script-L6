@@ -1,0 +1,16 @@
+* {
+    background-color: lightblue;
+    color : Black ;
+}
+.box {
+    display: inline-block;
+    margin-right: 40px;
+    background-color: red;
+    height: 60px ;
+    width: 100px ;
+    text-align: center;
+    padding-top: 40px;
+    color: yellow;
+    border-radius: 20px;
+    font-weight: bolder;
+}
